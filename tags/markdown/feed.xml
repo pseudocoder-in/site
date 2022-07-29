@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Pseudo Coder</title>
+      <link>https://pseudocoder.in/blog</link>
+      <description>World of code and stuff ...</description>
+      <language>en-us</language>
+      <managingEditor>pseudocoder.in@gmail.com (Pseudo Coder)</managingEditor>
+      <webMaster>pseudocoder.in@gmail.com (Pseudo Coder)</webMaster>
+      <lastBuildDate>Tue, 08 Mar 2016 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://pseudocoder.in/tags/markdown/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://pseudocoder.in/blog/code-sample</guid>
+    <title>Sample .md file</title>
+    <link>https://pseudocoder.in/blog/code-sample</link>
+    <description>Example of a markdown file with code blocks and syntax highlighting</description>
+    <pubDate>Tue, 08 Mar 2016 00:00:00 GMT</pubDate>
+    <author>pseudocoder.in@gmail.com (Pseudo Coder)</author>
+    <category>markdown</category><category>code</category><category>features</category>
+  </item>
+
+    </channel>
+  </rss>

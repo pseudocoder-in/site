@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Pseudo Coder</title>
+      <link>https://pseudocoder.in/blog</link>
+      <description>World of code and stuff ...</description>
+      <language>en-us</language>
+      <managingEditor>pseudocoder.in@gmail.com (Pseudo Coder)</managingEditor>
+      <webMaster>pseudocoder.in@gmail.com (Pseudo Coder)</webMaster>
+      <lastBuildDate>Fri, 11 Oct 2019 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://pseudocoder.in/tags/github/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://pseudocoder.in/blog/github-markdown-guide</guid>
+    <title>Markdown Guide</title>
+    <link>https://pseudocoder.in/blog/github-markdown-guide</link>
+    <description>Markdown cheatsheet for all your blogging needs - headers, lists, images, tables and more! An illustrated guide based on GitHub Flavored Markdown.</description>
+    <pubDate>Fri, 11 Oct 2019 00:00:00 GMT</pubDate>
+    <author>pseudocoder.in@gmail.com (Pseudo Coder)</author>
+    <category>github</category><category>guide</category>
+  </item>
+
+    </channel>
+  </rss>

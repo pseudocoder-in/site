@@ -7,7 +7,7 @@
       <language>en-us</language>
       <managingEditor>pseudocoder.in@gmail.com (Pseudo Coder)</managingEditor>
       <webMaster>pseudocoder.in@gmail.com (Pseudo Coder)</webMaster>
-      <lastBuildDate>Fri, 29 Jul 2022 15:32:14 GMT</lastBuildDate>
+      <lastBuildDate>Fri, 29 Jul 2022 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://pseudocoder.in/tags/algorithm/feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
@@ -15,7 +15,7 @@
     <title>Binary Search</title>
     <link>https://pseudocoder.in/blog/binary-search</link>
     <description>In this post we will look at the implementation of the different variations of binary search, which can be used to solve almost all the coding problems around this.</description>
-    <pubDate>Fri, 29 Jul 2022 15:32:14 GMT</pubDate>
+    <pubDate>Fri, 29 Jul 2022 00:00:00 GMT</pubDate>
     <author>pseudocoder.in@gmail.com (Pseudo Coder)</author>
     <category>search</category><category>algorithm</category>
   </item>

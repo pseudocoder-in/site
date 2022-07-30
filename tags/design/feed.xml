@@ -8,7 +8,7 @@
       <managingEditor>pseudocoder.in@gmail.com (Pseudo Coder)</managingEditor>
       <webMaster>pseudocoder.in@gmail.com (Pseudo Coder)</webMaster>
       <lastBuildDate>Sat, 30 Jul 2022 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://pseudocoder.in/feed.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://pseudocoder.in/tags/design/feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
     <guid>https://pseudocoder.in/blog/solid-principles</guid>
@@ -18,16 +18,6 @@
     <pubDate>Sat, 30 Jul 2022 00:00:00 GMT</pubDate>
     <author>pseudocoder.in@gmail.com (Pseudo Coder)</author>
     <category>design</category><category>coding</category><category>software</category>
-  </item>
-
-  <item>
-    <guid>https://pseudocoder.in/blog/binary-search</guid>
-    <title>Binary Search</title>
-    <link>https://pseudocoder.in/blog/binary-search</link>
-    <description>In this post we will look at the implementation of the different variations of binary search, which can be used to solve almost all the coding problems around this.</description>
-    <pubDate>Fri, 29 Jul 2022 00:00:00 GMT</pubDate>
-    <author>pseudocoder.in@gmail.com (Pseudo Coder)</author>
-    <category>search</category><category>algorithm</category>
   </item>
 
     </channel>

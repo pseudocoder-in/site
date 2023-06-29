@@ -23,7 +23,7 @@ export default function App({ Component, pageProps }) {
       </Head>
       {isDevelopment && isSocket && <ClientReload />}
       <Analytics />
-      <div className="mb-12 flex flex-col items-center gap-x-12 xl:flex-ro"> Coming soon</div>
+      <div className="xl:flex-ro·mb-12·flex·flex-col·items-center·gap-x-12"> Coming soon</div>
     </ThemeProvider>
   )
 }

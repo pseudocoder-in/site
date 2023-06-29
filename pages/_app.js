@@ -23,9 +23,18 @@ export default function App({ Component, pageProps }) {
       </Head>
       {isDevelopment && isSocket && <ClientReload />}
       <Analytics />
-      <LayoutWrapper>
-        <Component {...pageProps} />
-      </LayoutWrapper>
+      <div className="mb-12 flex flex-col items-center gap-x-12 xl:flex-ro"> Coming soon</div>
     </ThemeProvider>
   )
 }
+
+// <ThemeProvider attribute="class" defaultTheme={siteMetadata.theme}>
+//   <Head>
+//     <meta content="width=device-width, initial-scale=1" name="viewport" />
+//   </Head>
+//   {isDevelopment && isSocket && <ClientReload />}
+//   <Analytics />
+//   <LayoutWrapper>
+//     <Component {...pageProps} />
+//   </LayoutWrapper>
+// </ThemeProvider>
